@@ -1,0 +1,61 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-example-intelygenz
+  namespace: intelygenz
+spec:
+  containers:
+    - name: pod
+      image: alpine
+      args:
+      - cat
+      tty: true
+      stdin: true
+
+---
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-nginx-tools
+  namespace: tools
+spec:
+  containers:
+    - name: pod
+      image: nginx
+      ports:
+        - name: web
+          containerPort: 80
+          protocol: TCP
+
+---
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-example-integration
+  namespace: integration
+spec:
+  containers:
+    - name: pod
+      image: alpine
+      args:
+      - cat
+      tty: true
+      stdin: true
+
+---
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-example-monitoring
+  namespace: monitoring
+spec:
+  containers:
+    - name: pod
+      image: alpine
+      args:
+      - cat
+      tty: true
+      stdin: true
