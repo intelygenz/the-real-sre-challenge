@@ -8,6 +8,8 @@ Let's go!
 
 # The challenge starts here
 
+You have to fork this repository to complete the following challenges in your own `github` account. **Feel free to solve the challenge you want**. If you have any doubt, don't hesitate to open an issue to ask any question about any challenge.
+
 Exists **6 basic challenges** and **3 extras challenge**. So, the basic we recommend to finish them and the extra only if you want demostrate more.
 
 * Every challenge must have the **SOLUTION.md** in their directory with the result of the challenge.
