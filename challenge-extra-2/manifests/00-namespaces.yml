@@ -1,0 +1,47 @@
+#
+## collector
+#
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: collector
+
+---
+
+#
+## integration
+#
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: integration
+
+---
+
+#
+## intelygenz
+#
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: intelygenz
+
+---
+
+#
+## monitoring
+#
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: monitoring
+
+---
+
+#
+## tools
+#
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: tools

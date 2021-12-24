@@ -1,0 +1,18 @@
+- name: "[CHALLENGE 6] Deploy container"
+  hosts: all
+  tasks:
+
+    - name: Copy challenge-4
+      ansible.builtin.copy:
+        src: ../challenge-4
+        dest: /tmp/
+
+    # Continue from here :)
+    # - name: Install Docker
+    #   ...
+    #
+    # - name: Build Dockerfile
+    #   ...
+    #
+    # - name: Deploy container
+    #   ...
