@@ -71,7 +71,7 @@ We've the `server.py` code and we want containerized (with `docker`) this HTTP s
 
 *NOTE: Go `challenge-5` directory.*
 
-Oh, no! I don't know what happen on this binary! Can you help me? When I executed the binary told me always `Ooooh, what's wrong? :(`. How to fix it? We've expected `Congrats! :)` message.
+Oh, no! I don't know what happen on this binary! Can you help me? When I executed the binary told me always `Ooooh, what's wrong? :(`. How to fix it? We expected `Congrats! :)` message.
 
 ## Challenge 6. Build with Ansible
 
