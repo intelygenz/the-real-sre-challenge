@@ -12,7 +12,7 @@ You have to fork this repository to complete the following challenges in your ow
 
 Exists **6 basic challenges** and **3 extras challenge**. So, the basic we recommend to finish them and the extra only if you want demostrate more.
 
-* Every challenge must have the **SOLUTION.md** in their directory with the result of the challenge.
+* Every challenge must have the **SOLUTION.md** in their directory.
 * The content of SOLUTION.md is **how-to obtain the result**, **executed commands** and **short explanation** (if necessary).
 
 And... this is all. The first step is clone the repository and read quietly.
@@ -71,7 +71,7 @@ We've the `server.py` code and we want containerized (with `docker`) this HTTP s
 
 *NOTE: Go `challenge-5` directory.*
 
-Oh, no! I don't know what happen on this binary! Can you help me? When I executed the binary told me always `Ooooh, what's wrong? :(`. How to fix it?
+Oh, no! I don't know what happen on this binary! Can you help me? When I executed the binary told me always `Ooooh, what's wrong? :(`. How to fix it? We expected `Congrats! :)` message.
 
 ## Challenge 6. Build with Ansible
 
