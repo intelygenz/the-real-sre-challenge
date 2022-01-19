@@ -2,7 +2,7 @@
 
 ![Intelygenz](./igz-logo.png)
 
-Hey! You're here because you want to show your worth as a Site Reailibily Engineer (a.k.a SRE). You know what? I'm really happy you're here. If you want more information about what is a SRE, we recommend read the [books](https://sre.google/books/) published by Google to increase your knowledge.
+Hey! You're here because you want to show your worth as a Site Reliability Engineering (a.k.a SRE). You know what? I'm really happy you're here. If you want more information about what is a SRE, we recommend read the [books](https://sre.google/books/) published by Google to increase your knowledge.
 
 Let's go!
 
